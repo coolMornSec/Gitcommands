@@ -1,2 +1,0 @@
-# Gitcommands
-git operation
